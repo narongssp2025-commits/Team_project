@@ -1,0 +1,10 @@
+venv
+.venv
+tasks/venv
+.env
+db.sqlite3
+__pycache__
+staticfiles
+staticfiles_build
+.git
+.vscode
